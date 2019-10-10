@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
+# vuepress
+docs/.vuepress/
+
 # mac
 .DS_Store
