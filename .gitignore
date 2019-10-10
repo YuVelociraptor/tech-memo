@@ -61,7 +61,7 @@ typings/
 .next
 
 # vuepress
-docs/
+docs/.vuepress/
 
 # mac
 .DS_Store
