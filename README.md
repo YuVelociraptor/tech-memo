@@ -1,6 +1,10 @@
 # tech-memo
 Tech Memo
 
-## AWS
-## Python
-## node.js
+```
+vuepress dev docs
+```
+
+```
+vuepress build docs
+```
