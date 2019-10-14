@@ -1,10 +1,12 @@
 # tech-memo
 Tech Memo
 
+開発
 ```
-vuepress dev docs
+yarn docs:dev
 ```
 
+ビルド
 ```
-vuepress build docs
+yarn docs:build
 ```
