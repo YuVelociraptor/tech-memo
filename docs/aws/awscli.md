@@ -15,7 +15,7 @@ aws コマンド --profile ローカル管理の名前
 ```
 
 ```
-export AWS_DEFAULT_PROFILE=ローカル管理の名前
+export AWS_PROFILE=ローカル管理の名前
 ```
 
 
