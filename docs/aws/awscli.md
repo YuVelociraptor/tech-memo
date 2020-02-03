@@ -5,7 +5,7 @@
 pip install awscli
 ```
 
-configure
+## configure
 ```
 aws configure --profile ローカル管理の名前
 ```
