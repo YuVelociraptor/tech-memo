@@ -5,6 +5,20 @@
 pip install awscli
 ```
 
+configure
+```
+aws configure --profile ローカル管理の名前
+```
+
+```
+aws コマンド --profile ローカル管理の名前
+```
+
+```
+export AWS_DEFAULT_PROFILE=ローカル管理の名前
+```
+
+
 ## s3
 ### バケットの一覧を表示する
 ```
