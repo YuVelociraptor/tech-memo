@@ -1,13 +1,14 @@
 # pyenv 使い方
 
+- インストール + 環境変数追加
 ```
 brew install pyenv
-```
-
-- .bash_profile
-```
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
+```
+
+- .bash_profileか.zprofileに追加
+```
 eval "$(pyenv init -)"
 ```
 
